@@ -9,15 +9,26 @@
 6. Firebase Authentication service is selected for registration.
 7. Firebase Realtime Database service is selected for storing publication changes (adding, deleting, editing).
 8. Markdown syntax is supported for entering text with formatting. html is also supported.
-![Alt Text](./media/video1.mp4)
+9. The user's authentication state is changed using local storage.
 
+**PART 1**
+![Alt Text](./media/part1_split-video.com_-_1_.gif)
+
+**PART 2**
+![Alt Text](./media/part2_split-video.com_-_1_.gif)
 
 ### Features of chatbot
 1. The chatbot responds with the specified phrases to the specified queries.
 2. If a match is found in one of the publications, the chatbot will reply with a text containing a hyperlink to the found publication, and the found match is highlighted in bold.
-
+![Alt Text](./media/part3_split-video.com_.gif)
 
 ### How to work with text areas for chatbot?
 ![Alt Text](./media/video2.gif)
 
-how it works (image )
+
+#### Schemes of organization of website components and chatbot
+
+![Alt Text](./media/image2.jpg)
+
+![Alt Text](./media/image3.png)
+
