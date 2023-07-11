@@ -23,7 +23,7 @@
 ![Alt Text](./media/part3_split-video.com_.gif)
 
 ### How to work with text areas for chatbot?
-![Alt Text](./media/video2.gif)
+![Alt Text](./media/viedo2.gif)
 
 
 #### Schemes of organization of website components and chatbot
